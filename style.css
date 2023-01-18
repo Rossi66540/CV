@@ -1,0 +1,29 @@
+#colGauche{
+    background-color: lightblue;
+    height:auto;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#colDroite{
+    background-color: whitesmoke;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#colGauche table{
+    vertical-align:middle;
+}
+
+
+
+#stars{
+    background-color: lightgrey;
+    margin:5px;margin-left:30px;
+}
+
+h2{
+    border: solid 1px black;
+    padding:5px;
+    margin-right:10px;
+}
